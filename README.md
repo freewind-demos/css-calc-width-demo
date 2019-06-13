@@ -1,6 +1,8 @@
-Js Hello World Demo
+CSS Calc Width Demo
 ===================
 
-Open `index.html` in your browser.
+注意：使用calc表达式时，`+/-`两边必须有空格
 
-You will see "Hello, JS!" on the page.
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/calc
+
+Open `index.html` in your browser.
